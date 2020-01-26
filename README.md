@@ -1,5 +1,7 @@
 # Portfolio Optimization and Predicting Stock Price
 
+This project is for MGMT 590 - Computing for Analytics at Krannert School of Management, developed by Abhinav Chanda, Maharshi Dutta, Arun Ramakrishnan, Sesha Sai Tumma, Sagar Kurada and Mario Cheng.
+
 The main objective in today’s financial landscape is very simple – to maximize returns while lowering risk. At first, this sounds straightforward, however it is this balance which people are striving to achieve. Portfolio construction and selection is an investment strategy that allows investors to optimize the overall rate of returns for the risk. Hence a solution which works to resolve these challenges is of utmost importance and greatly valued in financial management. This forms our core outline for picking this topic.
 
 Implementation:
